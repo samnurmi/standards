@@ -1,4 +1,4 @@
-# Standards, Protocols, and Best Practices we follow.
+# Standards, Protocols, and Best Practices.
 
 # Voitto
 - [Voitto Standards](voitto/standards.md)
