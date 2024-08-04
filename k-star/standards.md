@@ -1,0 +1,67 @@
+# RFCs
+
+- **[RFC 791](https://tools.ietf.org/html/rfc791)** - Internet Protocol (IP)  
+- **[RFC 792](https://tools.ietf.org/html/rfc792)** - Internet Control Message Protocol (ICMP)  
+- **[RFC 793](https://tools.ietf.org/html/rfc793)** - Transmission Control Protocol (TCP)  
+- **[RFC 768](https://tools.ietf.org/html/rfc768)** - User Datagram Protocol (UDP)  
+- **[RFC 826](https://tools.ietf.org/html/rfc826)** - Address Resolution Protocol (ARP)  
+- **[RFC 1034](https://tools.ietf.org/html/rfc1034)** - Domain Names - Concepts and Facilities  
+- **[RFC 1035](https://tools.ietf.org/html/rfc1035)** - Domain Names - Implementation and Specification  
+- **[RFC 1122](https://tools.ietf.org/html/rfc1122)** - Requirements for Internet Hosts - Communication Layers  
+- **[RFC 1123](https://tools.ietf.org/html/rfc1123)** - Requirements for Internet Hosts - Application and Support  
+- **[RFC 1321](https://tools.ietf.org/html/rfc1321)** - MD5 Message-Digest Algorithm  
+- **[RFC 1519](https://tools.ietf.org/html/rfc1519)** - Classless Inter-Domain Routing (CIDR)  
+- **[RFC 1918](https://tools.ietf.org/html/rfc1918)** - Address Allocation for Private Internets  
+- **[RFC 2045](https://tools.ietf.org/html/rfc2045)** - Multipurpose Internet Mail Extensions (MIME) Part One: Format of Internet Message Bodies  
+- **[RFC 2046](https://tools.ietf.org/html/rfc2046)** - Multipurpose Internet Mail Extensions (MIME) Part Two: Media Types  
+- **[RFC 2047](https://tools.ietf.org/html/rfc2047)** - Multipurpose Internet Mail Extensions (MIME) Part Three: Message Header Extensions for Non-ASCII Text  
+- **[RFC 2048](https://tools.ietf.org/html/rfc2048)** - Multipurpose Internet Mail Extensions (MIME) Part Four: Registration Procedures  
+- **[RFC 2049](https://tools.ietf.org/html/rfc2049)** - Multipurpose Internet Mail Extensions (MIME) Part Five: Conformance Criteria and Examples  
+- **[RFC 2131](https://tools.ietf.org/html/rfc2131)** - Dynamic Host Configuration Protocol (DHCP)  
+- **[RFC 2136](https://tools.ietf.org/html/rfc2136)** - Dynamic Updates in the Domain Name System (DNS UPDATE)  
+- **[RFC 2141](https://www.ietf.org/rfc/rfc2141.txt)** - URN Syntax  
+- **[RFC 2328](https://tools.ietf.org/html/rfc2328)** - OSPF Version 2  
+- **[RFC 2460](https://tools.ietf.org/html/rfc2460)** - Internet Protocol, Version 6 (IPv6) Specification  
+- **[RFC 3031](https://tools.ietf.org/html/rfc3031)** - Multiprotocol Label Switching Architecture  
+- **[RFC 3261](https://tools.ietf.org/html/rfc3261)** - SIP: Session Initiation Protocol  
+- **[RFC 3986](https://tools.ietf.org/html/rfc3986)** - Uniform Resource Identifier (URI): Generic Syntax  
+- **[RFC 4648](https://tools.ietf.org/html/rfc4648)** - The Base16, Base32, and Base64 Data Encodings  
+- **[RFC 4960](https://tools.ietf.org/html/rfc4960)** - Stream Control Transmission Protocol (SCTP)  
+- **[RFC 5246](https://tools.ietf.org/html/rfc5246)** - The Transport Layer Security (TLS) Protocol Version 1.2  
+- **[RFC 5280](https://tools.ietf.org/html/rfc5280)** - Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile  
+- **[RFC 5424](https://tools.ietf.org/html/rfc5424)** - The Syslog Protocol  
+- **[RFC 6347](https://tools.ietf.org/html/rfc6347)** - Datagram Transport Layer Security Version 1.2  
+- **[RFC 7230](https://tools.ietf.org/html/rfc7230)** - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing  
+- **[RFC 7519](https://tools.ietf.org/html/rfc7519)** - JSON Web Token (JWT)  
+- **[RFC 7540](https://tools.ietf.org/html/rfc7540)** - Hypertext Transfer Protocol Version 2 (HTTP/2)  
+- **[RFC 8200](https://tools.ietf.org/html/rfc8200)** - Internet Protocol, Version 6 (IPv6) Specification  
+- **[RFC 8446](https://tools.ietf.org/html/rfc8446)** - The Transport Layer Security (TLS) Protocol Version 1.3  
+- **[RFC 8816](https://tools.ietf.org/html/rfc8816)** - Network Time Protocol (NTP)  
+
+---
+
+# Network: Open Networking Projects and Tools
+- **[Open Compute Project](https://www.opencompute.org/)**    
+  - An initiative to design and enable the delivery of the most efficient server, storage, and data center hardware designs for scalable computing.
+- **[OpenDaylight](https://www.opendaylight.org/)**    
+  - An open source platform for Software Defined Networking (SDN) to enable network programmability.
+- **[ONAP (Open Network Automation Platform)](https://www.onap.org/)**    
+  - A platform for orchestrating and automating physical and virtual network functions.
+- **[OpenStack](https://www.openstack.org/)**    
+  - An open source cloud computing infrastructure for building and managing public or private clouds.
+- **[OpenSwitch](https://openswitch.net/)**    
+  - A Linux-based network operating system that provides tools and APIs for managing network hardware.
+- **[FRR (Free Range Routing)](https://frrouting.org/)**    
+  - An IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP, OSPF, IS-IS, and more.
+- **[ONOS (Open Network Operating System)](https://onosproject.org/)**    
+  - A carrier-grade SDN network operating system designed for high availability, performance, and scale-out.
+- **[CORD (Central Office Re-architected as a Datacenter)](https://opencord.org/)**    
+  - A platform combining SDN, NFV, and the elasticity of commodity clouds to bring datacenter economics and cloud agility to the telco Central Office.
+- **[Open Security Controller](https://01.org/open-security-controller)**    
+  - A project to automate the deployment of network security functions for software-defined infrastructure.
+- **[OpenContrail](https://www.tungsten.io/)**    
+  - A scalable network virtualization solution for cloud environments.
+- **[Open Data Plane](https://www.opendataplane.org/)**    
+  - A standard set of APIs for the networking data plane, providing a common abstraction for various hardware accelerators and software implementations.
+- **[Linux Foundation hosted projects](https://www.linuxfoundation.org/projects/)**    
+  - Various open source projects hosted under the Linux Foundation that support the development of open networking technologies.
