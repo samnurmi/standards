@@ -1,4 +1,3 @@
-Certainly! Here is the standardized text incorporating RFC 2119 language:
 # Standards, Protocols, and Best Practices
 
 We strictly follow existing standards, protocols, and best practices, and we define our own only if they do not exist.
