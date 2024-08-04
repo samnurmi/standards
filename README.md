@@ -1,1 +1,1 @@
-# standards
+# Standards, Protocols, and Best Practices we follow.
